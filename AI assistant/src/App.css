@@ -1,0 +1,16 @@
+
+#nova{
+    height: 60%;
+    margin-top: 30px;
+
+}
+
+span {
+    display: inline-block; /* or block */
+    margin-top: 30px; 
+    font-size: 2vmax;
+    background-image: linear-gradient(to right, rgb(15, 169, 203), rgb(184, 0, 107));
+    background-clip: text;
+    -webkit-background-clip: text; /* For Safari */
+    color: transparent;
+}
