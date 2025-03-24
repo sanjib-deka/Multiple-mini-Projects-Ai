@@ -78,8 +78,8 @@ const UserContext = ({ children }) => {
       speak(`Today's date is ${date}`);
       setrecogText(`Today's date is ${date}`);
     } else if (Command.includes("who are you")) {
-      speak("I am a virtual assistant, created by Ayush Sir.");
-      setrecogText("I am a virtual assistant, created by Ayush Sir.");
+      speak("I am a virtual assistant, created by Sanjib");
+      setrecogText("I am a virtual assistant, created by Sanjib");
     } else {
       aiResponse(Command);
     }
