@@ -2,7 +2,7 @@ import express from "express";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { SSEServerTransport } from "@modelcontextprotocol/sdk/server/sse.js";
 
-import { createPost } from "./mcp.tool.js"; // ✅ this is correct
+import { createPost } from "./mcp.tool.js"; // 
 
 
 
