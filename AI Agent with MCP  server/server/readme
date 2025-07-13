@@ -1,0 +1,21 @@
+# 🐦 AI Twitter Automation Tool
+
+This project is an AI-powered Twitter bot that automates tweeting using the Twitter API. It uses environment variables for secure credential management.
+
+## 🚀 Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+Install all necessary packages using:
+
+npm install
+
+
+TWITTER_API_KEY=your_api_key_here
+TWITTER_API_SECRET=your_api_secret_here
+TWITTER_ACCESS_TOKEN=your_access_token_here
+TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret_here
+  get it from developer of x 
